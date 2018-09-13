@@ -1,4 +1,4 @@
-### HW1 client
+### HW2 client
 - to build a docker image:
 ```
 docker build -t itsm_hw1_client .
