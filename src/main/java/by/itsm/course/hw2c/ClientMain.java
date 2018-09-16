@@ -1,4 +1,4 @@
-package by.itsm.courses.hw2c;
+package by.itsm.course.hw2c;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

@@ -1,4 +1,4 @@
-package by.itsm.courses.hw2c.model;
+package by.itsm.course.hw2c.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;

@@ -1,8 +1,8 @@
-package by.itsm.courses.hw2c;
+package by.itsm.course.hw2c;
 
+import by.itsm.course.hw2c.model.Request;
+import by.itsm.course.hw2c.model.Response;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import by.itsm.courses.hw2c.model.Request;
-import by.itsm.courses.hw2c.model.Response;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
